@@ -13,56 +13,6 @@ Linkedin: https://www.linkedin.com/in/armaansaraswat/
 
 Instagram: https://www.instagram.com/saraswat_armaan/
 
-File Structure:
-
-miwlo-landing-page/
-├── css/
-│   ├── aos.css
-│   ├── font-awesome.min.css
-│   ├── main.css
-│   ├── miwlo.css
-│   ├── normalize.css
-│   ├── reset.css
-│   ├── responsive.css
-│   ├── slinky.min.css
-│   ├── slinky-mobile-theme.css
-├── images/
-│   ├── favicon.png
-│   ├── logo-black.png
-│   ├── a2.jpg
-│   ├── a3.jpg
-│   ├── a4.jpg
-│   ├── a5.jpg
-│   ├── a6.jpg
-│   ├── a7.jpg
-│   ├── shape/
-│       ├── circle-line-footer.png
-│       ├── circle-line-half.png
-│       ├── circle-line-large.png
-│       ├── line-dot-sm.png
-│       ├── qube-60.png
-│       ├── shape-05.png
-│       ├── shape-06.png
-│       ├── shape-11.png
-│       ├── shape-12.png
-│       └── circle-dot.png
-│   └── icons/
-│       ├── icon-01.png
-│       ├── icon-02.png
-│       ├── icon-03.png
-│       └── icon-07.png
-├── js/
-│   ├── aos.js
-│   ├── app.js
-│   ├── font-awesome.min.js
-│   ├── modernizr-3.11.2.min.js
-│   ├── parallax.min.js
-│   ├── parallax-scroll.js
-│   ├── slinky.min.js
-├── index.html
-├── about.html
-├── contact.html
-└── README.md
 
 Customization:
 HTML
@@ -91,7 +41,8 @@ Font Awesome
 jQuery 3.6.0
 Modernizr 3.11.2
 Slinky.js
-Included Files
+
+Included Files:
 These libraries are included via CDN links in the HTML file and locally in the js and css directories.
 
 Usage:
